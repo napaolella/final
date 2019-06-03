@@ -24,7 +24,7 @@ public class DevMain {
 		JTextField width = new JTextField("720");
 		JTextField height = new JTextField("480");
 		JLabel x = new JLabel("X");
-		JLabel author = new JLabel("Created by Nathan Paolella 2018");
+		JLabel author = new JLabel("Created by Nathan Paolella 2019");
 		JButton start = new JButton("Start");
 		hello.setLayout(new FlowLayout());
 		hello.getContentPane().add(instructions);
